@@ -1,4 +1,4 @@
-Google Pacman
+Utkarsh Pacman
 -------------
 
 This is a copy of Google's playable Pacman game logo hosted for
